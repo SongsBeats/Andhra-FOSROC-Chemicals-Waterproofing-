@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://andhrafosrocwaterproofing.com/sitemap.xml
+Sitemap: https://andhra-fosroc-waterproofing.vercel.app/sitemap.xml
